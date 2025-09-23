@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "legacy_uid": "f3366769-0d45-35a9-dee8-e35562632fda",
+  "instructors": {
+    "content": [
+      "5f0ab9da-8230-22f7-8a37-8f346f58f853"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "942a2e40-f03f-64ab-3189-562028f96cdf",
+    "website": "5-43-advanced-organic-chemistry-spring-2007"
+  },
+  "course_title": "Advanced Organic Chemistry",
+  "course_description": "This course deals with the application of structure and theory to the study of organic reaction mechanisms: Stereochemical features including conformation and stereoelectronic effects; reaction dynamics, isotope effects and molecular orbital theory applied to pericyclic and photochemical reactions; and special reactive intermediates including carbenes, carbanions, and free radicals.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.43",
+  "course_image_thumbnail": {
+    "content": "d290dd21-2eab-6c23-2ac8-25b73b63a775",
+    "website": "5-43-advanced-organic-chemistry-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "2ee8d40a-334c-479f-a202-e3fa96a347b0",
+  "site_short_id": "5.43-spring-2007",
+  "site_url_path": "courses/5-43-advanced-organic-chemistry-spring-2007",
+  "title": "Course Metadata"
+}
