@@ -23,6 +23,7 @@
     "website": "5-43-advanced-organic-chemistry-spring-2007"
   },
   "course_title": "Advanced Organic Chemistry",
+  "hide_download": true,
   "course_description": "This course deals with the application of structure and theory to the study of organic reaction mechanisms: Stereochemical features including conformation and stereoelectronic effects; reaction dynamics, isotope effects and molecular orbital theory applied to pericyclic and photochemical reactions; and special reactive intermediates including carbenes, carbanions, and free radicals.\n",
   "department_numbers": [
     "5"
@@ -33,6 +34,7 @@
     "content": "d290dd21-2eab-6c23-2ac8-25b73b63a775",
     "website": "5-43-advanced-organic-chemistry-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

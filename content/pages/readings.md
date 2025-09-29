@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on required texts for the course and
   due dates for readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
