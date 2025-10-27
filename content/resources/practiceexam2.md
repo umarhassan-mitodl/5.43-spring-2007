@@ -4,8 +4,6 @@ description: This resource includes a practice exam for the course.
 file: /courses/5-43-advanced-organic-chemistry-spring-2007/e329997b5b91d6495be638bd75aaa509_practiceexam2.pdf
 file_size: 174900
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This section provides information about the course assignments. The
   sets are only available to OCW users for the first half of this course. A sample
   solution is provided as an example of what is considered a thorough answer to a
   problem set question.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

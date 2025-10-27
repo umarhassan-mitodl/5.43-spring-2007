@@ -5,8 +5,6 @@ description: This resource includes a lecture handout on stereochemistry and  Ca
 file: /courses/5-43-advanced-organic-chemistry-spring-2007/aa309742554bbcc8f7f1e1dc477d8076_01_handout.pdf
 file_size: 65255
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
